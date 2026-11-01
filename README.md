@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sinchana U B👋
 
 Third-year B.E. student in **Artificial Intelligence & Data Science**, building towards a career in **cloud + machine learning (MLOps)**.
 
