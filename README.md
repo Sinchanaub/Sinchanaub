@@ -30,7 +30,8 @@ Third-year B.E. student in **Artificial Intelligence & Data Science**, building 
 ## 📊 GitHub stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sinchanaub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchanaub&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchanaub&layout=compact&theme=radical)\
+![Streak](https://streak-stats.demolab.com/?user=Sinchanaub&theme=radical&hide_border=false)
 
 ## 📂 Featured projects
 
