@@ -1,30 +1,48 @@
-# Hi, I'm Sinchana U B👋
+# Hi, I'm Sinchana U B 👋
 
 Third-year B.E. student in **Artificial Intelligence & Data Science**, building towards a career in **cloud + machine learning (MLOps)**.
 
-## What I'm working on
+## 🚀 What I'm working on
+
 - 🔬 Research paper on a hybrid AI–quantum approach to protein folding *(in progress)*
 - ☁️ Learning AWS, aiming for the ML Engineer Associate certification
 - 🧠 Learning PyTorch and Docker
 
-## Featured projects
-- **[Disease-Aware Quantum Protein Folding Analyzer](https://github.com/Sinchanaub/quantum-protein-analyzer)**: Flask web app combining quantum and AI methods for protein folding analysis, deployed on Render.
-- **[ai-dispatch](https://github.com/Sinchanaub/ai-dispatch)**: A daily Ai news platform, where only admin has both read and write access but has the power to make other user a writer on request. Rest of the users will have only read access.
-- **[wildlife-tracker](https://github.com/Sinchanaub/wildlife-tracker)**: A web app that gives efficient communication access to rangers of different areas. Also alerts on any poaching or animal injury incidents.
+## 💻 Tech stack
 
-## Tech stack
-- **Languages:** Python · C · JavaScript · HTML · CSS
-- **Web:** Flask · MERN (MongoDB, Express, React, Node.js)
-- **Databases:** MongoDB · Firebase · SQL
-- **Quantum:** Qiskit
-- **Data visualization:** Power BI · Tableau
-- **Tools:** Git · GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Experience
-- ServiceNow internship with SmartBridge: Completed a ServiceNow internship covering platform fundamentals: how the platform works, its core modules, and real-world enterprise use cases such as IT service management and workflow automation
-- Data Science and Analyst internship with FutureInterns: Built a business sales dashboard from e-commerce data using Power BI and Excel to visualize sales trends and key performance indicators
-• Developed a social media campaign performance tracker in Power BI and Excel to monitor engagement metrics and campaign ROI
-• Analyzed college event feedback data using Python (Pandas, Matplotlib, Seaborn) and performed sentiment analysis with TextBlob to extract actionable insights
+**Currently learning:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Connect
-[LinkedIn link](https://www.linkedin.com/in/sinchana-bellary-a9b711398/) · [Email](sinchanabellary8@gmail.com)
+## 📊 GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sinchanaub&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchanaub&layout=compact&theme=radical)
+
+## 📂 Featured projects
+
+- [**Disease-Aware Quantum Protein Folding Analyzer**](https://github.com/Sinchanaub/quantum-protein-analyzer): Flask web app combining quantum and AI methods for protein folding analysis, deployed on Render.
+- [**ai-dispatch**](https://github.com/Sinchanaub/ai-dispatch): Community AI news platform with role-based access (viewer, writer, admin).
+- [**wildlife-tracker**](https://github.com/Sinchanaub/wildlife-tracker): Web app for ranger communication and poaching/injury alerts.
+
+## 💼 Experience
+
+- **ServiceNow internship, SmartBridge:** platform fundamentals, core modules, ITSM and workflow automation use cases
+- **Data Science & Analyst internship, FutureInterns:** Power BI sales dashboard, campaign performance tracker, and Python sentiment analysis (Pandas, Matplotlib, TextBlob)
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/sinchana-bellary-a9b711398/) · [Email](mailto:sinchanabellary8@gmail.com)
